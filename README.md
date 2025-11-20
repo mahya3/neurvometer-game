@@ -1,4 +1,4 @@
-🎮🕹️ Nerve Test Game (C# WinForms)
+# 🎮🕹️ Nerve Test Game (C# WinForms)
 A fun and interactive Nerve Test Game developed 
 using C# and Windows Forms.
 This project simulates a classic "steady hand"
@@ -9,7 +9,9 @@ triggers a warning message along with a buzzer sound.
 The application also includes a timer that tracks 
 how long it takes the player to complete the challenge.
 
-🚀 Game Features:
+---
+
+## 🚀 Game Features:
 🧩 Mouse Path Tracking
 The player must move the cursor along a narrow
 path created using Label controls.
@@ -31,24 +33,32 @@ Simple and Engaging Gameplay
 Quick replayability
 Great for testing reaction and precision skills.
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 C#
 Windows Forms (WinForms)
 .NET Framework
 Timer component
 System sound playback
 
-💿Installation
+---
+
+## 💿Installation
 1.Clone the repository
 2.Open the project in Visual Studio.
 3.Build and run the solution.
 
-🕹️ How to Play
+---
+
+## 🕹️ How to Play
 1.Click the Start button to begin the timer.
 2.Move your mouse from the Start zone to the Finish zone.
 3.Stay inside the path at all times.
 4.If you touch the walls → warning + beep sound → game resets.
 5.Reach the end to see your completion time
 
-📄 License
+---
+
+## 📄 License
 Released under the MIT License.
